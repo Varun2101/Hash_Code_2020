@@ -9,8 +9,13 @@ Each dataset has a different distribution of values and hence a different optimi
 
 ## Scores:
 Part B:    5,822,900
+
 Part C:    5,645,747
+
 Part D:    4,815,395
+
 Part E:    3,035,456
+
 Part F:    5,157,930
+
 Total:     24,477,428
