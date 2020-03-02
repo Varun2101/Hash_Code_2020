@@ -1,2 +1,8 @@
 # Hash_Code_2020
-My submitted codes, outputs, and scores for Hash Code 2020
+Team: Milodino    Rank: 2347th overall (10724 Paricipants), 16th in Singapore    Overall Score: 24,477,428
+
+The problem statement is based on optimization in scanning books for Google Books, and details can be viewed in the pdf.
+
+The input data and result data are stored in .txt files in the format specified by the problem statement.
+
+Each dataset has a different distribution of values and hence a different optimization function. The best scoring solution for each of the datasets is present in their respective .py file. Parts B and C have unique optimization functions while parts D through F use a general base code with slightly modified parameters for optimization.
